@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="projectModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="laptops">
+      <EntityTypeMapping TypeName="projectModel.laptop">
+        <MappingFragment StoreEntitySet="laptop">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="year" ColumnName="year" />
+          <ScalarProperty Name="lmodel" ColumnName="lmodel" />
+          <ScalarProperty Name="pmodel" ColumnName="pmodel" />
+          <ScalarProperty Name="socket" ColumnName="socket" />
+          <ScalarProperty Name="chipset" ColumnName="chipset" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

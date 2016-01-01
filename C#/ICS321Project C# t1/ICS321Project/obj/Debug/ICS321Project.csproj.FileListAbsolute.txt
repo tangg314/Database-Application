@@ -1,0 +1,37 @@
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\bin\Debug\ICS321Project.exe.config
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\bin\Debug\ICS321Project.exe
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\bin\Debug\ICS321Project.pdb
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\bin\Debug\MySql.Data.dll
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\obj\Debug\ICS321Project.csprojResolveAssemblyReference.cache
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\obj\Debug\ICS321Project.CPUUpgrade.resources
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\obj\Debug\ICS321Project.Properties.Resources.resources
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\obj\Debug\ICS321Project.csproj.GenerateResource.Cache
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\obj\Debug\ICS321Project.exe
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\obj\Debug\ICS321Project.pdb
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\bin\Debug\EntityFramework.dll
+C:\Users\Lap Ho\Documents\School\Fall 2014\ICS 321\ICS321Project\ICS321Project\bin\Debug\EntityFramework.xml
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\bin\Debug\ICS321Project.exe.config
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\obj\Debug\ICS321Project.exe
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\obj\Debug\ICS321Project.pdb
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\bin\Debug\ICS321Project.exe
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\bin\Debug\ICS321Project.pdb
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\bin\Debug\EntityFramework.dll
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\bin\Debug\EntityFramework.xml
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\obj\Debug\ICS321Project.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\obj\Debug\ICS321Project.CPUUpgrade.resources
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\obj\Debug\ICS321Project.Properties.Resources.resources
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C#\ICS321Project\obj\Debug\ICS321Project.csproj.GenerateResource.Cache
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# v1 t1\ICS321Project\bin\Debug\ICS321Project.exe.config
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# v1 t1\ICS321Project\obj\Debug\ICS321Project.exe
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# v1 t1\ICS321Project\obj\Debug\ICS321Project.pdb
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\bin\Debug\ICS321Project.exe.config
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\obj\Debug\ICS321Project.exe
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\obj\Debug\ICS321Project.pdb
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\bin\Debug\ICS321Project.exe
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\bin\Debug\ICS321Project.pdb
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\bin\Debug\EntityFramework.dll
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\bin\Debug\EntityFramework.xml
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\obj\Debug\ICS321Project.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\obj\Debug\ICS321Project.CPUUpgrade.resources
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\obj\Debug\ICS321Project.Properties.Resources.resources
+C:\Users\Gary\Documents\ICS 321\Project\ICS321Project C# t1\ICS321Project\obj\Debug\ICS321Project.csproj.GenerateResource.Cache
